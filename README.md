@@ -10,4 +10,4 @@
 
 - huff_heap.py: contains the huffman (leftist) tree/heap used by huff_comp.py and huff_decomp.py
 
-- sample files: contains three small text files and their compressed counterparts
+- sample files: contains three small txt files and their compressed counterparts
